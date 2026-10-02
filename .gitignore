@@ -1,0 +1,8 @@
+__pycache__/
+.venv/
+data/*.csv
+validation_predictions.csv
+validation_metrics.json
+report.docx
+scorer_results/
+*.zip
